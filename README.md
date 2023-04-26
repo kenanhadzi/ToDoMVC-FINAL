@@ -3,7 +3,7 @@ Our test suite includes unit tests, integration tests, and end-to-end tests, all
 
 
 Test Scenarios
-Our tests cover a variety of scenarios, including: Adding tasks, Editing tasks, Completing tasks, Filtering tasks, Deleting tasks and Task counter.
+Our tests cover a variety of scenarios, including: Adding tasks (cypress\e2e\Adding-tasks.cy.js), Editing tasks(cypress\e2e\Editing-tasks.cy.js), Completing tasks(cypress\e2e\Completing-tasks.cy.js), Filtering tasks(cypress\e2e\Filtering-tasks.cy.js), Deleting tasks(cypress\e2e\Deleting-tasks.cy.js) and Task counter(cypress\e2e\Task-counter.cy.js).
 
 
 
