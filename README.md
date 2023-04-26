@@ -30,18 +30,18 @@ Our test suite generates reports in the form of HTML and JSON files that can be 
 Deliverables:
 
 
-Here is a link of GitHub repository (https://github.com/kenanhadzi/ToDoMVC-FINAL.git). Scripts to execute: 
+Here is a link of GitHub repository (https://github.com/kenanhadzi/ToDoMVC-FINAL.git).
+For execution open new terminal in Visual Studio Code and type samo of these commands: 
  (type npm run triggerAllTests-headlesschrome)
      (type npm run triggerAllTests-headlessfirefox)
      (type npm run triggerAllTests-headlessinedge)
     (type npm run triggerAllTests-headlessinchrome)
      (type npm run triggerAllTests-headedinfirefox )
     (type npm run triggerAllTests-headedinedge )
+   
     
-    For execution open new terminal in Visual Studio Code and type samo of these commands.
     
-    
-    Findings:
+ Findings:
 
 The ToDoMVC application has a relatively simple design and structure, which makes it easy to understand and modify.
 During testing, no problem was observed and all tests are passed. Reports are saved in (cypress\reports) folder where you can see all details.
